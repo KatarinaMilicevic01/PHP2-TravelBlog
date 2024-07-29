@@ -1,1 +1,1 @@
-# PraktikumPHP-TravelBlog
+# PHP2-TravelBlog
